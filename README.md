@@ -1,3 +1,6 @@
+
+![hero](https://github.com/user-attachments/assets/b1b9d5e2-e030-4c3e-a4bc-0a15d76b876c)
+
 # ElevenLabs Real-Time TTS Demo
 
 This project demonstrates real-time text-to-speech (TTS) using ElevenLabs API with WebSocket streaming and text highlighting. It showcases the newly introduced timestamps feature in the Elevenlabs Websockets API.
@@ -9,6 +12,9 @@ This project demonstrates real-time text-to-speech (TTS) using ElevenLabs API wi
 - Text highlighting synchronized with speech
 - Responsive UI built with Next.js and Tailwind CSS (+Shadcn components)
 - Backend powered by FastAPI and Python
+
+## Demo
+https://github.com/user-attachments/assets/71b4c6d9-9dda-45c8-b646-cb8ae01820a4
 
 ## Getting Started
 
